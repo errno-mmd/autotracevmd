@@ -1,18 +1,12 @@
 .idea/
 *.pyc
 *~
-*.so
-*.cpp
 TAGS
 GTAGS
 GRTAGS
 GPATH
+example.txt
 
-build/
 __pycache__/
-
-saved_sessions/
-applications/predictor/
-applications/testdata/
-applications/debug/
 output/
+.vscode/
