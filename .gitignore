@@ -6,6 +6,7 @@ GTAGS
 GRTAGS
 GPATH
 example.txt
+config.json
 
 __pycache__/
 output/
